@@ -65,6 +65,6 @@ gulp.task('colorChangeSvg', function(){
 
 ## Publish
 - 2018년 3월 3일 (March 3, 2018)
-- <a href="http://hwangsunsoo.com" target="_blank">황선수</a> (Sunsoo Hwang) / <a href="mailto:hwangsunsoo@gmail.com">hwangsunsoo@gmail.com</a>
+- 황선수 (Sunsoo Hwang) / <a href="mailto:hwangsunsoo@gmail.com">hwangsunsoo@gmail.com</a> / <a href="http://hwangsunsoo.com" target="_blank">www.hwangsunsoo.com</a>
 - 엔에이치엔테크놀로지서비스 주식회사 (NHN Technology Services Corporation)
 - 대한민국 (Republic of Korea)
