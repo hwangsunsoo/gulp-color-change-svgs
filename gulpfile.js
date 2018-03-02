@@ -1,5 +1,12 @@
 'use strict';
 
+/**
+ * gulp-color-change-svgs is a Gulp plugin for change color SVGs.
+ *
+ * @see https://github.com/hwangsunsoo/gulp-color-change-svgs.git
+ * @author Sunsoo Hwang <hwangsunsoo@gmail.com>
+ */
+
 const gulp = require('gulp');
 const replace = require('gulp-replace');
 const rename = require("gulp-rename");
