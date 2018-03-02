@@ -1,0 +1,30 @@
+{
+  "name": "gulp-color-change-svgs",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "colorChangeSvg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwangsunsoo/gulp-color-change-svgs.git"
+  },
+  "keywords": [
+    "gulp",
+    "color",
+    "colorize",
+    "svg"
+  ],
+  "author": "Sunsoo Hwang / South Korea",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hwangsunsoo/gulp-color-change-svgs/issues"
+  },
+  "homepage": "https://github.com/hwangsunsoo/gulp-color-change-svgs#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.6.1"
+  }
+}
